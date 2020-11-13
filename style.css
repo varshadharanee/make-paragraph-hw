@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+div{
+    background-color: lightblue;
+    width: 90%;
+    font-family: 'Dancing Script', cursive;
+    font-size: 150%;
+}
